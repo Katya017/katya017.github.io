@@ -1878,7 +1878,8 @@ input::-moz-focus-inner {
 
   .header-logo {
     left: 40px;
-    top: 3rem;
+    position: relative;
+    top: 2rem;
     -webkit-transform: translateY(0);
     -ms-transform: translateY(0);
     transform: translateY(0);
@@ -1903,7 +1904,7 @@ input::-moz-focus-inner {
   }
 
   .header-nav-wrap {
-    display: none;
+    display: none !important;
     height: auto;
     width: 100%;
     right: auto;
