@@ -2029,11 +2029,6 @@ input::-moz-focus-inner {
   overflow: hidden;
   position: relative;
 }
-@media (max-width: 1400px) {
-  .home-content {
-    padding-bottom: 30px;
-  }
-}
 
 .home-content h1 {
   font-size: 6.6rem;
