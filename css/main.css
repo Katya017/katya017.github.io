@@ -3263,10 +3263,10 @@ html.no-csstransitions .home-content__main {
  * responsive:
  * clients
  * ------------------------------------------------------------------- */
-@media only screen and (max-width:1200px) {
+/* @media only screen and (max-width:1200px) {
   padding-top: 16.2rem;
   padding-bottom: 16.2rem;
-}
+} */
 
 @media only screen and (max-width:1000px) {
   .item-client {
